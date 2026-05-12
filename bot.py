@@ -2,7 +2,7 @@ import telebot
 from groq import Groq
 import os
 
-BOT_TOKEN = "8680752176:AAHCAvI5XZflGIoudF5HUFGKojnZEGlruZ4"
+BOT_TOKEN = "8680752176:AAEGf3wM4FVTJtu_gq7eKQqVDdyT2zhafis"
 GROQ_API_KEY = "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"
 OWNER_ID = 7935573611
 
